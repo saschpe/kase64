@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+- Add linuxArm64, tvosSimulatorArm64, watchosSimulatorArm64 build targets
 
 ## [1.2.0] - 2024-06-24
 - Add iosX64, tvosX64 and watchosX64 build target
